@@ -33,3 +33,21 @@ The above boxplot help us to compare the interquartile ranges. The longer the bo
 ![mouse l509](https://github.com/user-attachments/assets/dc20569f-65a5-4b9d-94fd-e4fe1d570fed)
 
 Here, we have selected a single mouse (l509) that was treated with Capomulin and generated a line plot of tumor volume against the time point of that mouse. As we can see, the tumor volume reduces as the time point increases. So there is a significant reduction in the tumor volume by using this drug in this mouse. 
+
+
+![scatter](https://github.com/user-attachments/assets/08fca75e-3bff-4497-8e63-42bd19954b42)
+
+A scatter plot is also generated to see how each mouse weight affects the entire Capomulin regimen over average tumor volume. The higher the weight, the higher the relation with tumor volume. 
+
+## Correlation and Regression
+
+![lr](https://github.com/user-attachments/assets/cf4354e4-0965-47bc-b460-de1dcb2764b2)
+
+As we saw from the previous scatter diagram, the mouse weight and average tumor volume are positively related. The correlation between mouse weight and the average tumor volume is 0.84. The Overall summary of this study shows a positive result. Especially when using the drug, Capomulin.
+
+
+# Acknowledgment
+
+I have completed the challenge with the help of my Instructor and some internet searches.
+
+
