@@ -21,4 +21,15 @@ This Pie chart shows diffrent gender ratio used in the study. As we can see, alm
 
 ## Quartiles, Outliers and Boxplots
 
-Here we calculate the final tumor volume of each mouse across four of the treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+Here, we calculate the final tumor volume of each mouse across four of the treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+We also calculated the IQR and quantitatively determine if there are any potential outliers. 
+
+![boxplot](https://github.com/user-attachments/assets/3d597f42-9087-4659-b1d0-97d3dd42f1c3)
+
+The above boxplot help us to compare the interquartile ranges. The longer the box, the more dispersed the data. In our case, Ceftamin has the longer box. The large ranges indicate wider distribution, that is, more scattered data. The Infubinol has the outliers, that is the data point outside the boundary. 
+
+## Line and Scatter Plots
+
+![mouse l509](https://github.com/user-attachments/assets/dc20569f-65a5-4b9d-94fd-e4fe1d570fed)
+
+Here, we have selected a single mouse (l509) that was treated with Capomulin and generated a line plot of tumor volume against the time point of that mouse. As we can see, the tumor volume reduces as the time point increases. So there is a significant reduction in the tumor volume by using this drug in this mouse. 
